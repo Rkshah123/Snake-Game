@@ -1,0 +1,46 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+*.iml
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Build output and local toolchain ###
+target/
+dist/
+.tools/
+.tmp/
+*.log
+hs_err_pid*.log
+
+### Old / oversized release binaries (release files go to GitHub Releases, not the repo) ###
+Snake3D-1.0.exe
+
+### Freebuff workspace marker ###
+.freebuff/
+
+### OS ###
+.DS_Store
+Thumbs.db
